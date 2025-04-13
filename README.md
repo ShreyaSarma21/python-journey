@@ -19,6 +19,12 @@ Welcome to my Python learning journey, where I code daily for 30 days.
 - ✅ Enhanced login checker with masked input + 3 retry attempts
 - ✅ Committed and pushed via VS Code
 
+### 🛠️ Mini Project – User Dashboard
+- ✅ Combines Day 1–3 concepts: input, data types, logic, login
+- ✅ Verifies user login (3 attempts)
+- ✅ Takes age, place, and distance to calculate miles
+- ✅ Gives weather suggestion based on temperature
+
 
   
 
