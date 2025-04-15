@@ -25,6 +25,10 @@ Welcome to my Python learning journey, where I code daily for 30 days.
 - ✅ Takes age, place, and distance to calculate miles
 - ✅ Gives weather suggestion based on temperature
 
+### 📅 Day 4 – Loops
+- ✅ Practiced `for` and `while` loops
+- ✅ Learned how to use `break`, `continue`, and `range()`
+- ✅ Built a number guessing game using loops and logic
 
   
 
