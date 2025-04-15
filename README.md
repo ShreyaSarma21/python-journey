@@ -30,5 +30,12 @@ Welcome to my Python learning journey, where I code daily for 30 days.
 - ✅ Learned how to use `break`, `continue`, and `range()`
 - ✅ Built a number guessing game using loops and logic
 
+### 🎯 Upgraded: Guessing Game v2
+- ✅ Random number added using `random.randint()`
+- ✅ Input validation added using `try/except`
+- ✅ Displays remaining attempts and user guidance
+- ✅ Final version of Day 4's project
+
+
   
 
