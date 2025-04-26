@@ -36,6 +36,11 @@ Welcome to my Python learning journey, where I code daily for 30 days.
 - ✅ Displays remaining attempts and user guidance
 - ✅ Final version of Day 4's project
 
+### 📅 Day 5 – Functions
+- ✅ Learned how to define and reuse custom functions
+- ✅ Created `convert_km_to_miles`, `check_age_group`, and `validate_login`
+- ✅ Used a main function to organize execution
+
 
   
 
